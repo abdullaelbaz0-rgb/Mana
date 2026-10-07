@@ -1,0 +1,12 @@
+{
+  "name": "contact-form-server",
+  "version": "1.0.0",
+  "description": "Contact form receiver -> Formspree",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
